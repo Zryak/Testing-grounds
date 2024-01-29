@@ -1,5 +1,5 @@
 # Testing-grounds
 
-[Here](/Chess/start.html)
+[Here](/Chess/index.html)
 
 [or here](/original.html)
