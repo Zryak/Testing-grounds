@@ -1,1 +1,1 @@
-[CLick me](/chess/src/index.html)
+[Click me](/Tetris/tetris.html)
