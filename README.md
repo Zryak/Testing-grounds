@@ -1,1 +1,1 @@
-[Click me](/Tetris/tetris.html)
+[Click me](/Minigame/run.js)
