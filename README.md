@@ -1,1 +1,1 @@
-[Click me](/Minigame/run.js)
+[Click me](/embed.html)
